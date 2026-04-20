@@ -17,7 +17,6 @@ MediaPlayer is an app for watching videos and recording audio. It is designed to
 ### Audio Recorder
 *   **Live Waves**: See your voice moving on the screen while you record.
 *   **Pause and Resume**: You can stop the recording for a moment and start again.
-*   **Background Recording**: The app keeps recording even if you minimize it.
 *   **History**: All your recordings are saved in a simple list where you can play or delete them.
 
 ---
@@ -47,6 +46,3 @@ MediaPlayer is an app for watching videos and recording audio. It is designed to
 *   `src/redux`: How the app remembers things (like if a video is playing).
 *   `src/services`: The code that talks to the phone's hardware.
 
----
-
-*Made with care by Antigravity.*
